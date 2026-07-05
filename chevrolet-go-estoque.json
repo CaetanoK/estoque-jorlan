@@ -1397,5 +1397,33 @@
     "SpinCar": false,
     "LaudoCautelar": null,
     "Lugares": null
+  },
+  {
+    "Loja": "JORLAN SEMINOVOS | GOIÂNIA",
+    "Tipo": "Carro",
+    "Marca": "CHEVROLET",
+    "Modelo": "ONIX",
+    "Versao": "1.0 MPFI JOY 8V FLEX 4P MANUAL",
+    "Km": 41885,
+    "AnoFabricacao": 2018,
+    "AnoModelo": 2018,
+    "Cor": "Preto",
+    "Combustivel": "Flex",
+    "Transmissao": "Manual",
+    "Opcionais": "Airbag duplo, Ar condicionado, Freio ABS, Direção Elétrica",
+    "Caracteristicas": null,
+    "Preco": 48900,
+    "Portas": 4,
+    "Condicao": "Usado",
+    "Status": "Disponivel",
+    "Estoque": "Jorlan Lago das Rosas",
+    "Publicado": true,
+    "Blindado": false,
+    "Observacao": null,
+    "SuperOferta": false,
+    "Carroceria": "Hatch",
+    "SpinCar": false,
+    "LaudoCautelar": null,
+    "Lugares": null
   }
 ]
