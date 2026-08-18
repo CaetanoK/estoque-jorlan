@@ -301,7 +301,7 @@
     "Publicado": true,
     "Blindado": false,
     "Observacao": null,
-    "SuperOferta": false,
+    "SuperOferta": true,
     "Carroceria": "Hatch",
     "SpinCar": false,
     "LaudoCautelar": null,
